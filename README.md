@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/1trsin5pd2vhadqa?svg=true)](https://ci.appveyor.com/project/AnnaAlexandrova1/ahj-geolocation)
 
+https://annaalexandrova1.github.io/ahj-geolocation/
+
 **Важно**: в рамках этого задания вы будете разрабатывать **один проект**, в который добавляется новая функциональность. Поэтому все три задачи нужно делать в одном репозитории (не забудьте опубликовать проект на GitHub Pages).
 
 Правила сдачи задания:
